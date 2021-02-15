@@ -1,0 +1,27 @@
+
+pacCat.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+cat-left
+  rotate: false
+  xy: 2, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+cat-middle
+  rotate: false
+  xy: 68, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+cat-right
+  rotate: false
+  xy: 35, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

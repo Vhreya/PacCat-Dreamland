@@ -1,0 +1,27 @@
+
+empoweredPacCat-left.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+glittercatLeft
+  rotate: false
+  xy: 2, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 1
+glittercatLeft
+  rotate: false
+  xy: 35, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 2
+glittercatLeft
+  rotate: false
+  xy: 68, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 3

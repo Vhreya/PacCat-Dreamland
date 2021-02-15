@@ -1,0 +1,62 @@
+
+ghosts.png
+size: 128, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ghost1-left
+  rotate: false
+  xy: 2, 66
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ghost1-right
+  rotate: false
+  xy: 2, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ghost2-left
+  rotate: false
+  xy: 34, 66
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ghost2-right
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ghost3-left
+  rotate: false
+  xy: 34, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ghost3-right
+  rotate: false
+  xy: 66, 66
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ghost4-left
+  rotate: false
+  xy: 34, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ghost4-right
+  rotate: false
+  xy: 66, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
