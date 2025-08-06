@@ -4,7 +4,7 @@
 
 ![Titelbildschirm](LINK_ZUM_LOGO_ODER_DEINEM_ALTEN_SCREENSHOT)
 
-![Ingame Screenshot](LINK_ZUM_LOGO_ODER_DEINEM_ALTEN_SCREENSHOT)
+![Ingame Screenshot](https://github.com/Vhreya/PacCat-Dreamland/blob/main/Screenshot%202025-08-06%20143056.png?raw=true)
 
 ### Kurzbeschreibung
 
