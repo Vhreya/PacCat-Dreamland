@@ -1,6 +1,6 @@
 # PacCat-Dreamland (Abschlussprojekt Codersbay)
 
-![Logo der verwendenten Technologien](LINK_ZUM_LOGO_ODER_DEINEM_ALTEN_SCREENSHOT)
+![Logo der verwendenten Technologien](https://github.com/Vhreya/PacCat-Dreamland/blob/main/Screenshot%202025-08-06%20143042.png?raw=true)
 
 ![Titelbildschirm](LINK_ZUM_LOGO_ODER_DEINEM_ALTEN_SCREENSHOT)
 
