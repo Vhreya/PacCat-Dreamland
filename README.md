@@ -2,7 +2,7 @@
 
 ![Logo der verwendenten Technologien](https://github.com/Vhreya/PacCat-Dreamland/blob/main/Screenshot%202025-08-06%20143042.png?raw=true)
 
-![Titelbildschirm](LINK_ZUM_LOGO_ODER_DEINEM_ALTEN_SCREENSHOT)
+![Titelbildschirm](https://github.com/Vhreya/PacCat-Dreamland/blob/main/Screenshot%202025-08-06%20143243.png?raw=true)
 
 ![Ingame Screenshot](https://github.com/Vhreya/PacCat-Dreamland/blob/main/Screenshot%202025-08-06%20143056.png?raw=true)
 
